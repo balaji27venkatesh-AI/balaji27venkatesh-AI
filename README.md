@@ -13,16 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Balaji Venkatesh 👋
+# Hi there 👋, I'm Balaji Venkatesh
 
-**Senior Analytics Engineer | Product Analytics & Experimentation | Applied AI (Foundations)**
+**Senior Analytics Engineer | Product Analytics | Applied AI (Foundations)**
 
-📍 Hyderabad, India · **⚡ Actively Interviewing**  
+<!-- 📍 Hyderabad, India · **⚡ Actively Interviewing**   -->
+📍 Hyderabad, India  · Open to product-based roles
 💼 Open to: **Senior Analytics Engineer**, **Product Analytics Lead**, **Applied AI Engineer** roles in product-based teams
 
 ---
 
-## 🎯 What I Bring to the Table
+<!-- ## 🎯 What I Bring to the Table -->
+## 🎯 Profile Summary
 
 I'm a **Senior Analytics Engineer with strong product exposure**, experienced in building **decision-grade analytics systems** that directly influence revenue, experimentation, and AI-powered product decisions.
 
@@ -223,4 +225,4 @@ Helping business users reliably query and reason over internal documents without
 
 > *"The goal isn't to build pipelines. The goal is to enable better decisions, faster."*
 
-**⚡ Actively Interviewing** | **[View All Repositories](https://github.com/balaji27venkatesh-AI?tab=repositories)** | **[Schedule a Call](mailto:balaji27venkatesh@gmail.com?subject=Regarding%20Analytics%20%2F%20Applied%20AI%20Opportunities)**
+**⚡ Actively Interviewing** | **📂 [View All Repositories](https://github.com/balaji27venkatesh-AI?tab=repositories)** | **📞 [Schedule a Call](mailto:balaji27venkatesh@gmail.com?subject=Regarding%20Analytics%20%2F%20Applied%20AI%20Opportunities)**
