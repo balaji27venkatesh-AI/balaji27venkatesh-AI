@@ -13,168 +13,110 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋, I'm Balaji Venkatesh
 
-**Senior Analytics Engineer | Product Analytics | Applied AI (Foundations)**
+# Hi 👋 I’m Balaji Venkatesh
 
-<!-- 📍 Hyderabad, India · **⚡ Actively Interviewing**   -->
-📍 Hyderabad, India  · Open to product-based roles
-💼 Open to: **Senior Analytics Engineer**, **Product Analytics Lead**, **Applied AI Engineer** roles in product-based teams
-
----
-
-<!-- ## 🎯 What I Bring to the Table -->
-## 🎯 Profile Summary
-
-I'm a **Senior Analytics Engineer with strong product exposure**, experienced in building **decision-grade analytics systems** that directly influence revenue, experimentation, and AI-powered product decisions.
-
-I've owned analytics end-to-end across **large-scale eCommerce (Dell), manufacturing (HCLTech)**, working closely with product, engineering, and business teams. My focus is **impact over dashboards** — metrics people trust, experiments that guide decisions, and systems that scale.
-
-
-**Track Record:**
-- 💰 Supported ML features generating **$10M+ incremental revenue** (Dell eCommerce)
-- 📈 Drove **+6% YoY revenue mix growth** through data-driven segmentation (Dell)
-- ⚡ Improved data processing efficiency by **~30%** through optimized transformations (HCLTech)
-- 🤖 Delivered **15+ AI automation deployments** saving **120+ man-hours** (Wipro)
-
-I'm now **transitioning toward Applied AI Engineering**, with a system-first mindset: evaluation, reliability, iteration, and business alignment of AI systems.
+**Senior Analytics / Business Intelligence Engineer**  
+**Product & Experimentation Analytics | Analytics Engineering | Applied AI (Foundations)**  
+📍 Hyderabad, India
 
 ---
 
-## 🔑 Core Strengths
+## 👤 Profile
 
-**Analytics Engineering at Scale**
-- SQL-first modeling, dbt-style transformations, semantic layers
-- Built production data models serving 200+ stakeholders, eliminating metric drift
-- Designed analytics infrastructure supporting multi-million dollar decisions
+I’m a **Senior Analytics / BI Engineer with a strong product mindset**, focused on building **decision-grade analytics systems** that leaders trust and use.
 
-**Product & Experimentation Analytics**
-- A/B testing, funnel analysis, guardrail metrics, conversion optimization
-- Led experiments across ML-powered features and web journeys
-- Improved key metrics: 70% → 85% cart conversion rates, +5% CSAT improvements
+I’ve owned analytics end-to-end across **large-scale B2B eCommerce (Dell Technologies)** and **enterprise finance & regulatory analytics (HCLTech)**, working closely with product, engineering, and business stakeholders. My work emphasizes **metric correctness, experimentation, and scalable analytics foundations**—not just dashboards.
 
-**Applied AI Enablement**
-- Supporting ML/AI features through rigorous evaluation and experimentation
-- Currently building production-oriented AI projects: LLMs, RAG, agent systems (work-in-progress)
-- Focus on AI as a **product feature**, not just a model
-
-**Decision Ownership**
-- Translating ambiguous business problems into measurable outcomes
-- End-to-end ownership from data modeling to stakeholder decision-making
-- Production mindset: reliability, performance, documentation, stakeholder trust
+I also support **AI- and ML-powered product features** through analytics, experimentation, and evaluation, ensuring these systems deliver **measurable business impact** and remain reliable in production environments.
 
 ---
 
-## 🚀 Current Focus (2026 Trajectory)
+## 🧠 Core Capabilities
 
-Designing **AI-powered features as systems**, not demos:
-- Prompt & system design aligned to business intent
-- Evaluation frameworks for relevance, faithfulness, and usefulness
-- Strengthening Python, ML fundamentals, and LLM workflows with production thinking
+- **Analytics Engineering**
+  - SQL-first modeling, fact–dimension design, semantic layers
+  - Governed metrics and single source of truth
+  - Scalable analytics foundations used for leadership decisions
 
-My GitHub reflects this journey through **deliberate, system-oriented portfolio work**.
+- **Product & Experimentation Analytics**
+  - A/B testing, funnel & UX analysis
+  - Hypothesis-driven evaluation of product features
+  - Translating experiment results into clear go / no-go decisions
+
+- **Metrics & Decision Ownership**
+  - KPI definition and metric standardization
+  - Reducing reconciliation, improving trust in analytics
+  - Partnering with leaders on recurring business decisions
+
+- **Applied AI (Foundations)**
+  - Evaluating ML/AI features using metrics and experimentation
+  - Business-safe AI thinking: reliability, usefulness, guardrails
+  - Treating AI as a product capability, not a one-off model
 
 ---
 
 ## 📌 Featured Portfolio
 
-### 🔹 [Analytics Engineering Portfolio](https://github.com/balaji27venkatesh-AI/portfolio-analytics-engineering)
-**End-to-end analytics engineering demonstrating production-ready patterns**  
+### 🔹 Analytics Engineering – Metrics & Semantic Layer
+**End-to-end analytics engineering demonstrating production-ready patterns**
 
-**What it shows:**
-- Fact & dimension modeling for scalability
-- Centralized, governed metrics (single source of truth)
-- dbt-style transformations and semantic layers
-- BI-ready consumption patterns optimized for performance
+- Built analytics-ready fact & dimension models
+- Centralized KPI definitions to eliminate metric drift
+- Designed semantic layers optimized for BI consumption
+- Reduced downstream BI complexity and improved query performance
 
-**Business Problem Solved:** Eliminated metric inconsistencies, reduced BI complexity, enabled 3x faster queries
+**Business outcome:**  
+Improved metric consistency and enabled faster, trusted decision-making.
 
-**Tech:** `dbt` `Snowflake` `SQL` `Power BI` `Python` `PyArrow`
-
-
-### 🔹 [Product Analytics & Experimentation](https://github.com/balaji27venkatesh-AI/portfolio-product-analytics-experimentation)
-**Rigorous experimentation framework for data-driven product decisions**
-
-**What it shows:**
-- Hypothesis-driven analysis and metric definition
-- A/B test design, statistical power, and evaluation
-- Funnel diagnostics and conversion optimization
-- Clear go / no-go recommendations for product teams
-
-**Business Problem Solved:** Enabled confident product decisions through statistically sound experiments
-
-**Tech:** `Python` `SQL` `Statistical Analysis` `Causal Inference` `pandas`
-
-
-### 🔹 [Applied AI Business Assistant](https://github.com/balaji27venkatesh-AI/portfolio-applied-ai-business-assistant)
-**System-oriented Applied AI design focused on business-safe AI behavior**
-
-**What it shows:**
-- Prompt & system design aligned to business intent
-- Clear instruction hierarchy and role definition
-- Evaluation-first thinking (relevance, faithfulness, usefulness)
-- Treating AI as a product feature, not a one-off LLM call
-- Ownership of the full AI feature lifecycle
-
-**Business Problem Addressed:**  
-Helping business users reliably query and reason over internal documents without hallucination or inconsistent responses
-
-**Tech / Concepts:** `Python` `Prompt Engineering` `LLMs` `Evaluation Frameworks` `System Design`
+**Tech:** SQL · dbt-style modeling · Snowflake-style warehousing · Power BI · Python  
+🔗 https://github.com/balaji27venkatesh-AI/portfolio-analytics-engineering
 
 ---
 
-## 🛠️ Skill Stack
+### 🔹 Product Analytics & Experimentation
+**Experimentation-driven product analytics for confident decision-making**
 
-**Analytics Engineering & Data**
-- **SQL (Advanced)** — 5+ years production analytics, complex transformations, performance tuning
-- **dbt-style Analytics Engineering** — modeling patterns, semantic layers, testing
-- **Cloud Data Warehousing** — Snowflake-style warehousing, Azure data ecosystem
-- **Power BI** — semantic modeling, DAX, performance optimization
-- **Data Modeling** — fact/dimension design, grain definition, SCD concepts
+- Defined hypotheses and success metrics before launch
+- Analyzed A/B tests and funnel behavior using SQL & Python
+- Balanced statistical significance with business impact
+- Delivered clear product recommendations based on evidence
 
-**Product & Experimentation**
-- **Experimentation & A/B Testing** — hypothesis design, statistical evaluation, guardrail metrics
-- **Product Analytics** — funnel analysis, conversion optimization, cohort analysis
-- **Metrics & Decision Design** — KPI frameworks, metric ownership, stakeholder decision support
+**Business outcome:**  
+Enabled confident product decisions and avoided shipping low-impact features.
 
-**Applied AI (Foundations)**
-- **Python** — pandas, NumPy, scripting for analysis and evaluation
-- **Prompt & System Design** — instruction hierarchy, role definition, business-safe behavior
-- **AI Evaluation Thinking** — relevance, faithfulness, usefulness (business-focused)
-- **ML Fundamentals** — evaluation-first mindset, production awareness (non-research)
+**Tech:** Python · SQL · A/B Testing · Funnel Analysis · Statistics  
+🔗 https://github.com/balaji27venkatesh-AI/portfolio-product-analytics-experimentation
 
+---
 
-## 💼 Professional Experience Highlights
+### 🔹 Applied AI – Business Assistant (Foundations)
+**System-oriented applied AI design with business safety in mind**
 
-### **Lead Analytics Engineer** @ HCLTech (Mar 2024 - Present)
-*Supporting global Sweden-based manufacturing client*
-- Designed scalable dbt + Snowflake data models improving reliability
-- Optimized pipelines achieving **~30% efficiency improvement**
-- Owned end-to-end analytics delivery for operational & strategic decisions
+- Designed AI interactions aligned to business intent
+- Focused on evaluation, reliability, and controlled behavior
+- Treated AI as a product feature with measurable outcomes
 
-### **Senior Business Intelligence Engineer** @ Dell Technologies (Jan 2020 - Mar 2024)
-*Large-scale eCommerce and marketing analytics for Commercial Online Business*
-- Led product analytics improving Premier adoption (**1,500+ pages created**)
-- Drove **+6% YoY revenue mix increase** through segmentation
-- Supported ML recommendation systems contributing **$10M+ revenue**
-- Led A/B experiments optimizing conversion funnels and CSAT (**+5% improvement**)
+**Business outcome:**  
+Improved consistency and trust in AI-assisted decision workflows.
 
-**🏆 Bronze Position** | Data Science | AI CoE 2020
+**Tech:** Python · LLMs · Prompt & System Design · Evaluation Frameworks  
+🔗 https://github.com/balaji27venkatesh-AI/portfolio-applied-ai-business-assistant
 
-### **AI Bots Delivery Associate** @ Wipro (Jan 2018 - Jan 2020)
-*Enterprise AI automation via Wipro's Cognitive Platform (HOLMES)*
-- Delivered **15+ AI automation use cases** across enterprise clients
-- Deployed 5 cognitive products saving **120+ man-hours**
+---
 
-**🏆 Excellence Award** - HOLMES Delivery Team
+## 💼 Experience Snapshot
 
-### **AI Startup Discovery Lead** @ Wipro CTO Office (Jun 2016 - Jan 2018)
-*Strategic AI startup evaluation and partnerships*
-- Assessed **20+ AI startups** for product integration
-- Enabled **$5M+ revenue impact** through partnerships
+- **Dell Technologies** — Senior Business Intelligence Engineer  
+  - Revenue analytics driving **+6pp YoY online revenue mix**
+  - A/B experimentation supporting ML features contributing **$10M+ revenue**
+  - UX & operational analytics improving conversion and CSAT
 
-**🏆 Best Intern Award** (among 30+ IIT/IIM interns) - WiSE MBA Internship
+- **HCLTech** — Lead Analytics Engineer  
+  - Finance metrics standardization reducing reconciliation by **~90%**
+  - Regulatory analytics platform reducing reporting cycle from **~8 weeks to ~1 week**
 
+---
 
 ## 🎯 Roles I'm Actively Targeting
 
@@ -208,21 +150,6 @@ Helping business users reliably query and reason over internal documents without
 
 ---
 
-## 🏆 Recognition & Awards
-
-- 🥉 **Bronze Position** - Data Science | AI CoE 2020 (Dell Technologies)
-- 🌟 **Excellence Award** - HOLMES Delivery Team (Wipro)
-- 🏅 **Best Intern Award** - WiSE MBA Internship (among 30+ IIT/IIM interns)
-- 🏆 **Best B-School Project Award 2015** - Business Standard
-
-<!-- ---
-
-## 📊 GitHub Activity
-
-![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=balaji27venkatesh-AI&show_icons=true&theme=transparent&hide_border=true&count_private=true) -->
-
----
-
-> *"The goal isn't to build pipelines. The goal is to enable better decisions, faster."*
+> *“The goal of analytics isn’t dashboards — it’s better decisions, faster.”*
 
 **⚡ Actively Interviewing** | **📂 [View All Repositories](https://github.com/balaji27venkatesh-AI?tab=repositories)** | **📞 [Schedule a Call](mailto:balaji27venkatesh@gmail.com?subject=Regarding%20Analytics%20%2F%20Applied%20AI%20Opportunities)**
