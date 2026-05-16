@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 # Hi 👋 I’m Balaji Venkatesh
 
 **Business Intelligence Engineer · Applied AI Engineering**
+
 📍 Hyderabad, India · Joining Amazon as BIE · July 2026
 
-10+ years turning operational data into decisions that stick.
 SQL-first. Python-capable. AI-curious. Ops-focused.
+
+10+ years turning operational data into decisions that stick.
 
 ---
 
